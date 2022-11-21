@@ -1,2 +1,2 @@
- # Apliaski Absensi Mobile
+ # Mobile Aplikasi Absensi
  By Dimas R I
